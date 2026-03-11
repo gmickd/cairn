@@ -1,3 +1,10 @@
+---
+layout: default
+title: Potions
+parent: Player's Guide
+grand_parent: Second Edition
+---
+
 # Potions
 
 A d100 list of potions that may be brewed.
